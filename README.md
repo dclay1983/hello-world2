@@ -1,2 +1,5 @@
 # hello-world2
-Learning Git
+
+Hello All,
+
+Dave's the name. I like to eat spaghetti, drink coffee, and create code.
